@@ -19,7 +19,7 @@ It is important to create a json like the following:
 Just run the python script as the following:
 
 ```
-python3 few-shot-importer.py OLLAMA_MODEL PATH_MODELFILE your-dataset.json
+python3 few-shots-importer.py OLLAMA_MODEL PATH_MODELFILE your-dataset.json
 
 ```
 
